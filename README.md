@@ -4,11 +4,11 @@ Dieses Repository enthält meine Fallstudie für das Modul **Artificial Intellig
 
 ## Worum geht es
 
-E-Mail ist der wichtigste Kommunikationskanal in Unternehmen – und gleichzeitig ein großes Einfallstor für Spam und Phishing. Das kostet Arbeitszeit und ist ein echtes Sicherheitsrisiko. Ich wollte deshalb ein Modell bauen, das verdächtige Mails automatisch erkennt, damit Mitarbeitende und IT entlastet werden. Meine Forschungsfrage war, ob sich allein aus messbaren Merkmalen einer Mail (Wort- und Zeichenhäufigkeiten) zuverlässig vorhersagen lässt, ob es sich um Spam handelt.
+E-Mail ist der wichtigste Kommunikationskanal in Unternehmen und gleichzeitig ein großes Einfallstor für Spam und Phishing. Das kostet Arbeitszeit und ist ein echtes Sicherheitsrisiko. Ich wollte deshalb ein Modell bauen, das verdächtige Mails automatisch erkennt, damit Mitarbeitende und IT entlastet werden. Meine Forschungsfrage war, ob sich allein aus messbaren Merkmalen einer Mail (Wort- und Zeichenhäufigkeiten) zuverlässig vorhersagen lässt, ob es sich um Spam handelt.
 
 ## Daten
 
-Ich habe den öffentlichen **Spambase**-Datensatz verwendet (UCI Machine Learning Repository, Hopkins et al. 1999) – 4.601 reale E-Mails mit 57 numerischen Merkmalen und der Zielvariable `spam`. Da interne Firmen-Mails sensibel und nicht öffentlich sind, dient dieser reale Datensatz als realitätsnahe Annäherung – die Fallstudie bildet bewusst keine echten internen Daten der Mercedes-Benz AG ab.
+Ich habe den öffentlichen **Spambase**-Datensatz verwendet (UCI Machine Learning Repository, Hopkins et al. 1999) 4.601 reale E-Mails mit 57 numerischen Merkmalen und der Zielvariable `spam`. Da interne Firmen-Mails sensibel und nicht öffentlich sind, dient dieser reale Datensatz als realitätsnahe Annäherung, die Fallstudie bildet bewusst keine echten internen Daten der Mercedes-Benz AG ab.
 
 ## Mein Vorgehen
 
