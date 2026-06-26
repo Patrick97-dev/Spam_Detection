@@ -4,7 +4,7 @@ Dieses Repository enthält meine Fallstudie für das Modul **Artificial Intellig
 
 ## Worum geht es
 
-E-Mail ist der wichtigste Kommunikationskanal in Unternehmen – und gleichzeitig ein großes Einfallstor für Spam und Phishing. Das kostet Arbeitszeit und ist ein echtes Sicherheitsrisiko. Ich wollte deshalb ein Modell bauen, das verdächtige Mails automatisch erkennt, damit Mitarbeitende und IT entlastet werden. Meine Forschungsfrage war, ob sich allein aus messbaren Merkmalen einer Mail (Wort- und Zeichenhäufigkeiten) zuverlässig vorhersagen lässt, ob es sich um Spam handelt.
+E-Mail ist der wichtigste Kommunikationskanal in Unternehmen und gleichzeitig ein großes Einfallstor für Spam und Phishing. Das kostet Arbeitszeit und ist ein echtes Sicherheitsrisiko. Ich wollte deshalb ein Modell bauen, das verdächtige Mails automatisch erkennt, damit Mitarbeitende und IT entlastet werden. Meine Forschungsfrage war, ob sich allein aus messbaren Merkmalen einer Mail (Wort- und Zeichenhäufigkeiten) zuverlässig vorhersagen lässt, ob es sich um Spam handelt.
 
 ## Daten
 
